@@ -4,7 +4,7 @@
 
 The Korg Poly 800 II & EX-800, have very simple MIDI controls.
 
-They can only receive 2 CC messages, besides standard `pitch` and `mod wheel`, `ENV to DCO` and `VCF mod amount`. These parameters support real time editing will effect any playing notes.
+They can only receive 2 CC messages, besides standard `pitch` and `mod wheel`, `ENV to DCO` and `VCF mod amount`. These parameters support real-time editing will affect any playing notes.
 
 The 8 bank / 8 Program program change messages can be difficult to figure out their Base 10 equivalent. This patch also makes it simple to select a patch precisely.
 
